@@ -1,4 +1,4 @@
-# 👨‍💻 abdeldjalil lafkir
+# 👨‍💻 Abdeldjalil Lafkir
 
 **`Digital Craftsman (IT Student/Future Teacher/Full-Stack Developer/AI Enjoyer)`**
 
@@ -135,16 +135,16 @@ const abdeldjalil-lafkir = {
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/jalil-lafkir">
+<a href="https://github.com/abdeldjalile-lafkir">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.facebook.com/jalil.lafkir">
+<a href="https://www.facebook.com/abdeldjalile.lafkir">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-<a href="https://t.me/jalil_lafkir">
+<a href="https://t.me/abdeldjalile_lafkir">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-<a href="mailto:ahmedjalallafkir@gmail.com">
+<a href="mailto:lafkir.abdeldjalile@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
@@ -153,4 +153,4 @@ const abdeldjalil-lafkir = {
 
 💡 **"Making an impact in the tech world—one project at a time."**
 
-⭐ From [jalil-lafkir](https://github.com/jalil-lafkir)
+⭐ From [jalil-lafkir](https://github.com/abdeldjalile-lafkir)
