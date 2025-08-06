@@ -147,7 +147,7 @@ const abdeldjalil-lafkir = {
 
 #
 
-### 🌐 Connect With Me
+### 🌐 Want talk ?  
 
 <p align="left">
 <a href="https://github.com/abdeldjalile-lafkir">
@@ -166,6 +166,6 @@ const abdeldjalil-lafkir = {
 
 ---
 
-💡 **"Making an impact in the tech world—one project at a time."**
+💡 **"Having fun in tech—one line of code at a time."**
 
 ⭐ From [abdeldjalile-lafkir](https://github.com/abdeldjalile-lafkir)
