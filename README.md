@@ -26,6 +26,8 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
 ---
 
 ### 🧰 Languages and Tools
+
+<br>
 <div style="
     display: flex;
     flex-wrap: wrap;
