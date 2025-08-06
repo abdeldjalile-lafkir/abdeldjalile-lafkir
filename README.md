@@ -27,33 +27,32 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
 
 ### 🧰 Languages and Tools
 
-
 <img
   align="left"
   alt="Java"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
 />
 <img
   align="left"
   alt="JavaScript"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
 />
 <img
   align="left"
   alt="TypeScript"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
 />
 <img
   align="left"
   alt="Python"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
 />
 <!-- Frontend Technologies -->
@@ -61,28 +60,28 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
   align="left"
   alt="React"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
 />
 <img
   align="left"
   alt="HTML"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
 />
 <img
   align="left"
   alt="CSS"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
 />
 <img
   align="left"
   alt="Tailwind CSS"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
 />
 <!-- Backend & Databases -->
@@ -90,28 +89,28 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
   align="left"
   alt="NodeJS"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
 />
 <img
   align="left"
   alt="ExpressJS"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
 />
 <img
   align="left"
   alt="MongoDB"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
 />
 <img
   align="left"
   alt="MySQL"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
 />
 <!-- AI/ML -->
@@ -119,14 +118,14 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
   align="left"
   alt="Scikit-learn"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
 />
 <img
   align="left"
   alt="PyTorch"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
 />
 <!-- Tools & Platforms -->
@@ -134,28 +133,28 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
   align="left"
   alt="Git"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
 />
 <img
   align="left"
   alt="GitHub"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
 />
 <img
   align="left"
   alt="Docker"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
 />
 <img
   align="left"
   alt="Azure"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
 />
 <!-- Operating Systems & Environments -->
@@ -163,21 +162,21 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
   align="left"
   alt="Linux"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
 />
 <img
   align="left"
   alt="Arch Linux"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg"
 />
 <img
   align="left"
   alt="Debian"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"
 />
 <!-- IDEs & Cloud -->
@@ -185,21 +184,21 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
   align="left"
   alt="VS Code"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
 />
 <img
   align="left"
   alt="Vim"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
 />
 <img
   align="left"
   alt="Jetbrains"
   width="30px"
-  style="padding: 10px 10px; margin: 5px"
+  style="padding: 10px 10px; margin: 10px 0px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
 />
 
