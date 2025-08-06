@@ -29,7 +29,7 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
 
 
 <!-- Programming Languages -->
-<div style="display:flex; flex-wrap-wrap;">
+<div style="display:flex; flex-wrap-wrap; gap:10px 0px">
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
