@@ -3,7 +3,7 @@
 **`Digital Craftsman (IT Student/Future Teacher/Full-Stack Developer/AI Enjoyer)`**
 
 Hey, I'm Abdeldjalil!👋🏾<br /><br />
-      I'm an IT student and web developer and AI enjoyer passionate about creating innovative
+      I'm an IT student and web developer and Jr AI enjoyer passionate about creating innovative
       and engaging digital experiences, like this one. I specialize in building
       dynamic websites and AI applications that showcase my technical skills and
       creativity.
@@ -27,7 +27,7 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
 
 ### 🧰 Languages and Tools
 
-<div style="width: 100%; overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 8px; background: #f8f9fa;">
+<div style="width: 100%; overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 8px;">
   <!-- Programming Languages -->
   <img align="left" alt="Java" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="JavaScript" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -46,8 +46,8 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
   <!-- AI/ML -->
   <img align="left" alt="Scikit-learn" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
   <img align="left" alt="PyTorch" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<br>
-<br>
+  <br>
+  <br>
   <!-- Tools & Platforms -->
   <img align="left" alt="Git" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" alt="GitHub" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -144,8 +144,6 @@ const abdeldjalil-lafkir = {
 ### 📊 GitHub Stats
 
 ![Abdeldjalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdeldjalile-lafkir&show_icons=true&theme=gruvbox)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeldjalile-lafkir&layout=compact&theme=gruvbox)
 
 #
 
