@@ -27,7 +27,7 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
 
 ### 🧰 Languages and Tools
 
-<div style="width: 100%; overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 8px;">
+
   <!-- Programming Languages -->
   <img align="left" alt="Java" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="JavaScript" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -46,8 +46,6 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
   <!-- AI/ML -->
   <img align="left" alt="Scikit-learn" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
   <img align="left" alt="PyTorch" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <br>
-  <br>
   <!-- Tools & Platforms -->
   <img align="left" alt="Git" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" alt="GitHub" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -61,7 +59,7 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
   <img align="left" alt="VS Code" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="left" alt="Vim" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   <img align="left" alt="Jetbrains" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
-</div>
+
 <br>
 <br>
 
