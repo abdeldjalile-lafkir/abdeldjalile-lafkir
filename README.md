@@ -28,6 +28,16 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
 ### 🧰 Languages and Tools
 
 <div style="width: 100%; overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 8px;">
+  <!-- Operating Systems & Environments -->
+  <img align="left" alt="Linux" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="left" alt="Arch Linux" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
+  <img align="left" alt="Debian" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+  <!-- IDEs & Cloud -->
+  <img align="left" alt="VS Code" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="left" alt="Vim" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+  <img align="left" alt="Jetbrains" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
+  <br>
+  <br>
   <!-- Programming Languages -->
   <img align="left" alt="Java" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="JavaScript" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -51,16 +61,7 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
   <img align="left" alt="GitHub" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="left" alt="Docker" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="left" alt="Azure" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <br>
-  <br>
-  <!-- Operating Systems & Environments -->
-  <img align="left" alt="Linux" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="left" alt="Arch Linux" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
-  <img align="left" alt="Debian" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-  <!-- IDEs & Cloud -->
-  <img align="left" alt="VS Code" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="left" alt="Vim" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-  <img align="left" alt="Jetbrains" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
+  
 </div>
 <br>
 <br>
