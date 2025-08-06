@@ -143,7 +143,7 @@ const abdeldjalil-lafkir = {
 
 ### 📊 GitHub Stats
 
-![Abdeldjalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdeldjalile-lafkir&show_icons=true&theme=default)
+![Abdeldjalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdeldjalile-lafkir&show_icons=true&theme=transparent)
 
 #
 
