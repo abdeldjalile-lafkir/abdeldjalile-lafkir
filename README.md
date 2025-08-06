@@ -46,13 +46,13 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
   <!-- AI/ML -->
   <img align="left" alt="Scikit-learn" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
   <img align="left" alt="PyTorch" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <br>
-  <br>
   <!-- Tools & Platforms -->
   <img align="left" alt="Git" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" alt="GitHub" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="left" alt="Docker" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="left" alt="Azure" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <br>
+  <br>
   <!-- Operating Systems & Environments -->
   <img align="left" alt="Linux" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="left" alt="Arch Linux" width="30px" style="padding :0px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
