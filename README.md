@@ -86,7 +86,6 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
 
 #
 
-
 ### 🚀 Featured Projects
 
 **Full-Stack Applications:**
