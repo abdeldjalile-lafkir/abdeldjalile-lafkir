@@ -29,13 +29,7 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
 ### 🧰 Languages and Tools
 
 <br>
-<div style="
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-  ">
+
   <img align="left" alt="Java" width="30px" style="padding: 10px 10px; margin: 10px 0px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="left" alt="JavaScript" width="30px" style="padding: 10px 10px; margin: 10px 0px"
@@ -90,7 +84,7 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   <img align="left" alt="Jetbrains" width="30px" style="padding: 10px 10px; margin: 10px 0px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-</div>
+
 
 
 #
