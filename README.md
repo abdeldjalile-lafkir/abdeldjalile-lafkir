@@ -23,6 +23,7 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
       creativity, I’m committed to making an impact in the tech world—one
       project at a time.
 
+
 ---
 
 ### 🧰 Languages and Tools
@@ -95,6 +96,8 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
 
 
 ---
+
+#
 
 ### 🚀 Featured Projects
 
