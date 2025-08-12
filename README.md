@@ -28,8 +28,6 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
 
 ### 🧰 Languages and Tools
 
-<br>
-
   <img align="left" alt="Java" width="30px" style="padding: 10px 10px; margin: 10px 0px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="left" alt="JavaScript" width="30px" style="padding: 10px 10px; margin: 10px 0px"
@@ -82,13 +80,12 @@ Hey, I'm Abdeldjalil!👋🏾<br /><br />
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="left" alt="Vim" width="30px" style="padding: 10px 10px; margin: 10px 0px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-  <img align="left" alt="Jetbrains" width="30px" style="padding: 10px 10px; margin: 10px 0px"
+  <img align="" alt="Jetbrains" width="30px" style="padding: 10px 10px; margin: 10px 0px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 
-<br>
-<br>
 
 #
+
 
 ### 🚀 Featured Projects
 
