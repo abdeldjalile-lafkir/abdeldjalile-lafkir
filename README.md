@@ -1,6 +1,6 @@
 # 👨‍💻 Abdeldjalil Lafkir
 
-**`Digital Craftsman (IT Student/Future Teacher/Full-Stack Developer/AI Enjoyer)`**
+**`Digital Craftsman (IT Student/Future Teacher/Full-Stack Developer/Data Enthusiast/AI Enjoyer)`**
 
 Hey, I'm Abdeldjalil!👋🏾<br /><br />
       I'm an IT student and web developer and Jr AI enjoyer passionate about creating innovative
