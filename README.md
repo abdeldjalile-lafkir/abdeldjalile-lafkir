@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (IT Student/Future Teacher/Full-Stack Developer/Data Enthusiast/AI Enjoyer)`**
 
-Hey, I'm Abdeldjalil!👋🏾<br /><br />
+Hey, it's abdeldjalile!👋🏾<br /><br />
       I'm an IT student and web developer and Jr AI enjoyer passionate about creating innovative
       and engaging digital experiences, like this one. I specialize in building
       dynamic websites and AI applications that showcase my technical skills and
