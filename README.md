@@ -54,8 +54,6 @@ Hey, it's abdeldjalile!👋🏾<br /><br />
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="left" alt="ExpressJS" width="30px" style="padding: 10px 10px; margin: 10px 0px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="left" alt="NestJS" width="30px" style="padding: 10px 10px; margin: 10px 0px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="left" alt="GraphQL" width="30px" style="padding: 10px 10px; margin: 10px 0px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img align="left" alt="MongoDB" width="30px" style="padding: 10px 10px; margin: 10px 0px"
