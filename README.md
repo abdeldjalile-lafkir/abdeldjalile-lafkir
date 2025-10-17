@@ -39,8 +39,12 @@ Hey, it's abdeldjalile!👋🏾<br /><br />
   <!-- Frontend Technologies -->
   <img align="left" alt="React" width="30px" style="padding: 10px 10px; margin: 10px 0px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="Next.js" width="30px" style="padding: 10px 10px; margin: 10px 0px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="left" alt="HTML" width="30px" style="padding: 10px 10px; margin: 10px 0px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="left" alt="Angular" width="30px" style="padding: 10px 10px; margin: 10px 0px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
   <img align="left" alt="CSS" width="30px" style="padding: 10px 10px; margin: 10px 0px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="left" alt="Tailwind CSS" width="30px" style="padding: 10px 10px; margin: 10px 0px"
@@ -50,6 +54,10 @@ Hey, it's abdeldjalile!👋🏾<br /><br />
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="left" alt="ExpressJS" width="30px" style="padding: 10px 10px; margin: 10px 0px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="left" alt="NestJS" width="30px" style="padding: 10px 10px; margin: 10px 0px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img align="left" alt="GraphQL" width="30px" style="padding: 10px 10px; margin: 10px 0px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img align="left" alt="MongoDB" width="30px" style="padding: 10px 10px; margin: 10px 0px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="left" alt="MySQL" width="30px" style="padding: 10px 10px; margin: 10px 0px"
@@ -130,12 +138,12 @@ const abdeldjalil-lafkir = {
 
 **Frontend Development**
 
-- React.js, HTML5, CSS3, JavaScript (ES6+), TypeScript
+- React.js, HTML5, CSS3,Next.js, Angular.js JavaScript (ES6+), TypeScript
 - Tailwind CSS, Responsive Design, Vite
 
 **Backend Development**
 
-- Node.js, Express.js, REST APIs
+- Node.js, Express.js,Nest.js REST APIs, GraphQL APIs
 - Java, Python, Spring Framwork, Django and PHP
 
 **Databases & Storage**
