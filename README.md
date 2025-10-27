@@ -1,4 +1,4 @@
-# 👨‍💻 Abdeldjalil Lafkir
+# 👨‍💻 abdeldjalile lafkir
 
 **`Digital Craftsman (IT Student/Future Teacher/Full-Stack Developer/Data Enthusiast/AI Enjoyer)`**
 
