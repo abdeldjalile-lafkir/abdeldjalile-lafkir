@@ -136,12 +136,12 @@ const abdeldjalil-lafkir = {
 
 **Frontend Development**
 
-- React.js, HTML5, CSS3,Next.js, Angular.js JavaScript (ES6+), TypeScript
+- React.js, HTML5, CSS3, Next.js, Angular.js, JavaScript (ES6+), TypeScript
 - Tailwind CSS, Responsive Design, Vite
 
 **Backend Development**
 
-- Node.js, Express.js,Nest.js REST APIs, GraphQL APIs
+- Node.js, Express.js, Nest.js, REST APIs, GraphQL APIs
 - Java, Python, Spring Framwork, Django and PHP
 
 **Databases & Storage**
