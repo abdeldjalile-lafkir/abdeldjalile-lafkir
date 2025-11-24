@@ -166,8 +166,7 @@ const abdeldjalil-lafkir = {
 
 ![Abdeldjalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdeldjalile-lafkir&show_icons=true&theme=transparent)
 
-
----
+#
 
 💡 **"Having fun in tech—one line of code at a time."**
 
