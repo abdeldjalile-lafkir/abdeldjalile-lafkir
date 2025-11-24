@@ -167,24 +167,6 @@ const abdeldjalil-lafkir = {
 ![Abdeldjalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdeldjalile-lafkir&show_icons=true&theme=transparent)
 
 #
-
-### 🌐 Want talk ?  
-
-<p align="left">
-<a href="https://github.com/abdeldjalile-lafkir">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.facebook.com/abdeldjalile.lafkir">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://t.me/abdeldjalile_lafkir">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="mailto:lafkir.abdeldjalile@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
-
 ---
 
 💡 **"Having fun in tech—one line of code at a time."**
