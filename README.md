@@ -142,11 +142,11 @@ const abdeldjalil-lafkir = {
 **Backend Development**
 
 - Node.js, Express.js, Nest.js, REST APIs, GraphQL APIs
-- Java, Python, Spring Framwork, Django and PHP
+- TypeScript, Python, C++
 
 **Databases & Storage**
 
-- MongoDB, MySQL, PostgreSQL, SQL
+- MongoDB,PostgreSQL
 
 **DevOps & Tools**
 
@@ -154,9 +154,6 @@ const abdeldjalil-lafkir = {
 - Arch Linux, Hyprland, Container Technologies
 - Debian, VPS, Azure, PaaS
 
-**Mobile & Desktop**
-
-- React Native, Kotlin, Electron.js,
 
 **AI/ML & Research**
 
