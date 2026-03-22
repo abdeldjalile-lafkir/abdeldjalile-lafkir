@@ -11,4 +11,4 @@ who craft codes, projects, optimizations, and intuitive user experiences.
 
 # 
 
-Some technologies I had messed with include TypeScript, Python, and Cplusplus for building web apps and performance‑sensitive code,
+Some technologies I had messed with include TypeScript, Python, and Cplusplus with all their related libs and frameworks for building web apps and performance‑sensitive codes.
