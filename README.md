@@ -6,5 +6,5 @@
 
 # 
 
-Freelance developer and student at Ecole Normale Supérieure - Kouba ,
-I craft codes, projects, optimizations, and intuitive user experiences. 
+A Freelance developer and student at Ecole Normale Supérieure - Kouba,
+who craft codes, projects, optimizations, and intuitive user experiences. 
