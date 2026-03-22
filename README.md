@@ -1,3 +1,3 @@
 # 👨🏾‍💻 abdeldjalile lafkir
 
-**`Digital Craftsman (IT Student/Future Teacher/Full-Stack Developer/AI Enjoyer)`**
+**`Digital Craftsman (Pregraduated IT Student | Developer (Full-Stack & AI/ML) | IT Secondary School Educator)`**
