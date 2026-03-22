@@ -1,7 +1,5 @@
 # 👨🏾‍💻 abdeldjalile lafkir
 
-#
-
 - Pregraduated IT Student
 - Developer (Full-Stack & AI/ML)
 - IT Secondary School Educator
